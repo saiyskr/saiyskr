@@ -28,13 +28,7 @@
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)  
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)  
 
-
-## 🔥 Skills & Technologies  
-- **Frontend:** Angular, React, TypeScript, JavaScript, HTML, CSS  
-- **Backend:** Node.js, .NET Core, Java (Spring Boot)   
-- **Databases:** SQL Server, PostgreSQL, MongoDB  
-- **Cloud & DevOps:** AWS, Azure, Docker, Kubernetes, CI/CD  
-- **Other:** Microservices, RESTful APIs, GraphQL, OAuth, JWT  
+**Other:** Microservices, RESTful APIs, GraphQL, OAuth, JWT  
 
 ## 📜 Certifications  
 - ✅ **AWS Certified**  
