@@ -20,8 +20,6 @@
 📊 **[IPL Data Analysis](https://github.com/saiyskr/IPL_data_analysis)** – Data visualization and insights from IPL matches  
 💰 **[Budget Tracker](https://github.com/saiyskr/BudgetTracker)** – A full-stack app to track expenses efficiently  
 
-## 📈 GitHub Stats  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=saiyeruva&show_icons=true&theme=radical)  
 
 ## 📫 Let's Connect!  
 - 💼 [LinkedIn](https://www.linkedin.com/in/saikiranreddyy/)  
