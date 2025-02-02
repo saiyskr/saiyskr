@@ -6,7 +6,7 @@
 
 ## 🔥 Skills & Technologies  
 - **Frontend:** Angular, React, TypeScript, JavaScript, HTML, CSS  
-- **Backend:** .NET Core, Java (Spring Boot), Node.js  
+- **Backend:** Node.js, .NET Core, Java (Spring Boot)   
 - **Databases:** SQL Server, PostgreSQL, MongoDB  
 - **Cloud & DevOps:** AWS, Azure, Docker, Kubernetes, CI/CD  
 - **Other:** Microservices, RESTful APIs, GraphQL, OAuth, JWT  
