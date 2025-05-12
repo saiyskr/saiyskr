@@ -1,6 +1,6 @@
 # Hi, I'm Sai Kiran Reddy Yeruva! 👋  
 
-🚀 **Full Stack Software Engineer** with **3+ years** of expertise in building scalable web applications. 
+🚀 **Software Engineer** with expertise in building scalable web applications. 
 💡 Passionate about **Microservices Architecture, Cloud Infrastructure, and DevOps Practices**.  
 🎯 Strong focus on **optimizing application performance** and **mentoring development teams**.  
 
